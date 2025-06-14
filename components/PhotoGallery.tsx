@@ -20,9 +20,9 @@ const PhotoGallery: React.FC = () => {
     <div className="max-w-6xl mx-auto mb-12">
       <div className="text-center mb-8">
         <h2 className="text-3xl md:text-4xl font-bold bg-gradient-to-r from-pink-500 to-purple-600 bg-clip-text text-transparent mb-4 font-dancing">
-          Our Beautiful Memories
+          Beautiful Memories
         </h2>
-        <p className="text-gray-700 text-lg">Every picture tells our love story 💕</p>
+        <p className="text-gray-700 text-lg">Every picture tells a story behind 💕</p>
       </div>
 
       <div className="grid grid-cols-2 md:grid-cols-3 gap-4 md:gap-6">
